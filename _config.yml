@@ -6,7 +6,7 @@ profile_pic: /assets/img/HFSmallLogo.png
 favicon: /assets/img/HFSmallLogo.png
 copyright_name: Ben Hammersley
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jovial-benz-2557b2.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
