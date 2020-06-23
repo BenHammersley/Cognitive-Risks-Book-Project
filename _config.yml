@@ -1,9 +1,9 @@
 title: Cognitive Risks
 name: Ben Hammersley
-user_description: This is the user_description line
+user_description: PROTOTYPE SITE
 notes_url: "https://benhammersley.com"
-profile_pic: /assets/img/profile.png
-favicon: /assets/img/favicon.png
+profile_pic: /assets/img/HFSmallLogo.png
+favicon: /assets/img/HFSmallLogo.png
 copyright_name: Ben Hammersley
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
