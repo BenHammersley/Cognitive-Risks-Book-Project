@@ -4,6 +4,7 @@ title: A virtual meeting with the King design team
 tags: Client Talks
 examplemetadata:
 notetype:
+excerpt: This is the text for the front page index
 
 ---
 

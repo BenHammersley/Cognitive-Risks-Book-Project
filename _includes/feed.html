@@ -9,7 +9,7 @@
 			
             <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
             <p class="feed-title">{{ item.title }}</p>
-            <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
+            <p class="feed-excerpt">{{ item.excerpt | strip_html | strip | escape | truncate: 100}}</p>
             </a>
         
 		</div>
