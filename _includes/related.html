@@ -88,6 +88,7 @@
           {%- endif -%}
         {%- endfor -%}
         {%- if sameTagCount >= minCommonTags -%}
+		<!-- TODO: filter here for clientwork:secret -->
           <div class="related-group"><a href="{{post.url}}">
             <p class="related-title">{{ post.title }}</p>
             <p class="related-excerpt">{{ post.content | markdownify | strip_html | truncate: 140 }}</p>
