@@ -37,7 +37,7 @@ for Media Article:
 
 authors:
 year:
-permalink:
+link:
 journal:
 
 
@@ -72,7 +72,7 @@ journal:
 <p class="notes-metadata">
 	
 {%- if page.notetype == "Academic Paper" -%}
-An Academic Paper, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a DOI of <a href="{{page.permalink}}">{{page.permalink}}</a>
+An Academic Paper, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a DOI of <a href="{{page.doi}}">{{page.doi}}</a>
 {%- endif -%}
 
 {%- if page.notetype == "Concept" -%}
@@ -84,7 +84,7 @@ A person born in {{page.born}}. A biography can be found <a href="{{page.bio}}">
 {%- endif -%}
 
 {%- if page.notetype == "Media Article" -%}
-A media article, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a permalink of <a href="{{page.doi}}">{{page.doi}}</a>
+A media article, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a permalink of <a href="{{page.link}}">{{page.link}}</a>
 {%- endif -%}
 
 </p>
