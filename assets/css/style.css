@@ -751,6 +751,11 @@ hr {
     font-size: 13px;
 }
 
+.tags a:hover {
+	color: #ffffff;
+	background: #c92626;
+}
+
 .content a {
     color: #4183c4;
     text-decoration: none;

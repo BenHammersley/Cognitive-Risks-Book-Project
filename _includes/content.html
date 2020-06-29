@@ -58,13 +58,9 @@ journal:
     
 	<!-- Loop through page categories and print them in tags -->
     {%- for tag in page.tags -%}
-        <li><a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
+        <li><a href="/tags/#{{ tag }}" class="tag" rel="tag">{{ tag }}</a></li>
     {%- endfor -%}
-	
-    <!-- Loop through examplemetadata and print them in tags as a test for how this might work-->
-    {%- for tag in page.examplemetadata -%}
-        <li>Example metadata test: <a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
-    {%- endfor -%}
+
 </ul>
 
 <!-- If the page is a note and it has a defined note-type then loop through the additional metadata for display here -->

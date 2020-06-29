@@ -1,6 +1,5 @@
 ---
 date: 2020-06-20
-clientwork: public
 title: A virtual meeting with the King design team
 tags:
 excerpt: This is the text for the front page index
