@@ -1,16 +1,97 @@
 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
-{%- if page.content-type == "post" -%}
+<!-- This is the section that parses the metadata tags at the top of the post markdown document. -->
+<!-- So for every new metadata field that we'd like to display at the top of the page, this is where we can put it -->
+<!--
+
+Currently, as of June 29 2020, for posts, these are:
+
+status:
+date: YYYY-MM-DD (this overrides the date in the filename)
+title: 
+tags:
+
+
+For notes pages, we have the above, but additional metadata possibilities:
+
+notetype: Academic Paper, Concept, Person, Media Article
+
+Generally, but not exclusively:
+
+For Academic Paper:
+
+authors:
+year:
+doi:
+journal:
+
+for Concept:
+
+
+for Person:
+
+Bio link:
+Born:
+Died:
+
+for Media Article:
+
+authors:
+year:
+permalink:
+journal:
+
+
+
+-->
+
+
 <ul class="tags">
-    {%- if page.status != nil and page.status != empty -%}
+    
+	<!-- Check for the status field and if present print it on the screen -->
+	{%- if page.status != nil and page.status != empty -%}
     <li><a href="javascript:void(0)" class="tag"><b>Status:</b> <i>{{page.status | capitalize}}</i></a></li>
     {%- endif -%}
-    <li><a href="/dates/#{{ page.date | date: '%d-%B-%Y' }}" class="tag">{{ page.date | date: '%B-%d-%Y' }}</a></li>
-    <!-- Loop through page categories and print them in tags -->
+    
+	<!-- Display the page date field -->
+	<li><a href="/dates/#{{ page.date | date: '%d-%B-%Y' }}" class="tag">{{ page.date | date: '%B-%d-%Y' }}</a></li>
+    
+	<!-- Loop through page categories and print them in tags -->
     {%- for tag in page.tags -%}
         <li><a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
     {%- endfor -%}
+	
+    <!-- Loop through examplemetadata and print them in tags as a test for how this might work-->
+    {%- for tag in page.examplemetadata -%}
+        <li>Example metadata test: <a href="/tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
+    {%- endfor -%}
 </ul>
+
+<!-- If the page is a note and it has a defined note-type then loop through the additional metadata for display here -->
+
+
+<p class="notes-metadata">
+	
+{%- if page.notetype == "Academic Paper" -%}
+An Academic Paper, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a DOI of <a href="{{page.permalink}}">{{page.permalink}}</a>
 {%- endif -%}
+
+{%- if page.notetype == "Concept" -%}
+A concept, written by {{page.authors}}, in {{page.year}}.</a>
+{%- endif -%}
+
+{%- if page.notetype == "Person" -%}
+A person born in {{page.born}}. A biography can be found <a href="{{page.bio}}"> at {{page.bio}}</a></a>
+{%- endif -%}
+
+{%- if page.notetype == "Media Article" -%}
+A media article, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a permalink of <a href="{{page.doi}}">{{page.doi}}</a>
+{%- endif -%}
+
+</p>
+
+
+
+
 <div class="content">
     {%- assign content_array = content | split:'[[' -%}
     {%- assign external_link_delimiter = '::' -%}
@@ -46,6 +127,9 @@
     {%- assign replaced_content = content -%}
     {%- for title in internal_link_array -%}
         {%- assign url = internal_url_array[forloop.index0] -%}
+		
+		<!-- Give the orphan links a funny background -->
+		
         {%- if url == nil -%}
             {%- assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: title | append: '</a>' -%}
         {%- elsif url == empty -%}
@@ -55,6 +139,8 @@
             {%- if post[0].title == nil -%}
             {%- assign post = site.posts | where: 'title',title -%}
             {%- endif -%}
+			
+		<!-- Create a truncated roll-over for any links to local notes -->	
             {%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
             {%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
         {%- endif -%}
@@ -64,6 +150,9 @@
 
     {%- assign sideNoteCounter = 0 -%}
     {%- assign srsCounter = 0 -%}
+	
+	
+	<!-- Go through links to external sites and add in the nice superscript logos for specific destinations -->
     {%- for title in external_link_array -%}
         {%- assign url = external_url_array[forloop.index0] -%}
         {%- if url contains "wikipedia.org" -%}
@@ -79,7 +168,8 @@
             {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-twitter"></i></sup></a>' -%}
         {%- elsif url contains "github.com" or url contains "github.io" -%}
             {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-github"></i></sup></a>' -%}
-        {%- elsif url == "highlight" -%}
+        
+		{%- elsif url == "highlight" -%}
             {%- assign link_text = '<span style="background-color: #DAEDFF; color: #555;">' | append: title | append: '</span>' -%}
         {%- elsif url == "wrap" -%}
             {%- assign link_text = '<div class="boxit">' | append: title | append: '</div>' -%}
