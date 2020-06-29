@@ -41,5 +41,3 @@ Lauren V. Scharff, Albert J Ahumada. (2005). [[Why is light text harder to read 
 
 Jim Sheedy, Kevin Larson. (2008). *[[Blink: The stress of Reading::http://www.eyemagazine.com/opinion/article/eye-strain]]*
 
-
-

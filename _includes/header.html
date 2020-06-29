@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title></title>
-	</head>
-	<body>
-		<p>
-			{%- if page.content-type == "notes" or page.permalink == "/notes" -%}
-		</p>
-		<header>
+{%- if page.content-type == "notes" or page.permalink == "/notes" -%}
+		
 			<div class="notes-page-subheader disable-select">
 				<div class="notes-page-site-heading">
 					<p>
@@ -16,7 +8,7 @@
 				</div>
 				<div class="notes-page-main-heading">
 					<p class="notes-page-heading">
-						<a href="/notes">Notes and Thoughts</a>
+						<a href="/notes">Notes</a>
 					</p>
 				</div>
 			</div>
@@ -71,11 +63,9 @@
 					Notes
 				</p>{%- endif -%}
 			</div>
-		</header>
-		<p>
-			{%- else -%}
-		</p>
-		<header>
+
+{%- else -%}
+
 			<div class="dashboard disable-select">
 				<div class="site-heading profile-board-col">
 					<h4 class="medium">
@@ -97,20 +87,8 @@
 			</div>
 			<div class="avatar disable-select">
 				<img src="{{site.profile_pic}}" class="avatar-img" alt="avatar">
-			</div>{%- if page.permalink != "/" -%}
-			<div class="main-site-subheader disable-select" id="scroll-head">
-				<div class="back-icon" onclick="window.location.assign('/');">
-					<svg class="ripple" xmlns="http://www.w3.org/2000/svg" height="24" viewbox="0 0 24 24" width="24">
-					<path d="M0 0h24v24H0z" fill="none"></path>
-					<path d="M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21z"></path></svg>
-				</div>
-				<p class="back-p">
-					Home
-				</p>
-			</div>{%- endif -%}
-		</header>
-		<p>
-			{%- endif -%}
-		</p>
-	</body>
-</html>
+			</div>
+			
+	{%- endif -%}
+
+
