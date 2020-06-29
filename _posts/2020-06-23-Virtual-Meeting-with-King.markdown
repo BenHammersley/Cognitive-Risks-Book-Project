@@ -7,7 +7,14 @@ excerpt: This is the text for the front page index
 
 ---
 
-This is where today's outline will go to link to a note using double-square brackets. [[Comparison based on accomplishment does not have a baseline]] I think. Or [[Dark theme adoption as a function of cognitive exhaustion]] or [[an non-existant note]] should work. Maybe [[The Template For Notes]] as well?
+This is where today's outline will go to link to a note using double-square brackets. [[Comparison based on accomplishment does not have a baseline]] I think. Or [[Dark theme adoption as a function of cognitive exhaustion]].
+
+The note inclusion makes no sense here. 
+[[Comparison based on accomplishment does not have a baseline copy]] [[Nonexistant note]]
+
+Notes cannot begin an A - huh!?
+
+[[Note Should Go Here]]
 
 Weirdness
 
