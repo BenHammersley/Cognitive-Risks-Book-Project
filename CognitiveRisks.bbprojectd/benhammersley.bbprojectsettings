@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:benhammersley</key>
+	<false/>
+	<key>ExpandedEditorWidth:benhammersley:displays([(0, 0), (2048, 1152)]:[(2048, -500), (1440, 2560)])</key>
+	<integer>1571</integer>
+	<key>ExpandedItems:benhammersley</key>
+	<array>
+		<string>BB917DBD-757B-4406-BECC-5B09248E54E9</string>
+	</array>
+	<key>FileFilterMode:benhammersley</key>
+	<integer>0</integer>
+	<key>OpenDocuments:benhammersley</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.81963713980789754</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:benhammersley</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:benhammersley</key>
+	<false/>
+	<key>ToolbarVisible:benhammersley</key>
+	<false/>
+	<key>ViewSplitterPosition:benhammersley</key>
+	<real>0.11443066596984863</real>
+	<key>WindowFrame:benhammersley:displays([(0, 0), (2048, 1152)]:[(2048, -500), (1440, 2560)])</key>
+	<string>rect(45,0,982,1774)</string>
+</dict>
+</plist>
