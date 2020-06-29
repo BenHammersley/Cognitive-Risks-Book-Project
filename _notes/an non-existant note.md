@@ -1,9 +1,9 @@
 ---
 title: The Template for Notes
 tags: ux programming sleep cognition
-notetype: Academic Paper, Concept, Person, Media Article
+notetype: 
 authors:
-year:
+year: 2020
 doi:
 journal:
 authors:

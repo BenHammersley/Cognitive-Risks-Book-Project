@@ -15,3 +15,8 @@ One way to handle this would be to realize the fragility of the epistemic confid
 ## References
 
 Warren Buffet. (Unknown). *[[The Inner Scorecard::https://fs.blog/2016/08/the-inner-scorecard/]]*
+
+
+Bauer, D., & Cavonius, C., R. (1980). *Improving the legibility of visual display units through contrast reversal.*
+(From: [[UX Stackexchange on theme and eye strain::https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes]])
+> "...However, most studies have shown that dark characters on a light background are superior to light characters on a dark background (when the refresh rate is fairly high). For example, Bauer and Cavonius (1980) found that participants were 26% more accurate in reading text when they read it with dark characters on a light background..."

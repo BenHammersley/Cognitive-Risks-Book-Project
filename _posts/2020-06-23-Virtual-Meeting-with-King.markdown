@@ -7,9 +7,9 @@ excerpt: This is the text for the front page index
 
 ---
 
-This is where today's outline will go to link to a note using double-square brackets. [[Comparison based on accomplishment does not have a baseline]] I think. Or [[Dark theme adoption as a function of cognitive exhaustion]]
+This is where today's outline will go to link to a note using double-square brackets. [[Comparison based on accomplishment does not have a baseline]] I think. Or [[Dark theme adoption as a function of cognitive exhaustion]] or [[an non-existant note]] should work. Maybe [[The Template For Notes]] as well?
 
-This is a link to [[an non-existant note]]
+Weirdness
 
 Can I use a left side note in a post? [[Let's see. This should be there::lsn]]
 
