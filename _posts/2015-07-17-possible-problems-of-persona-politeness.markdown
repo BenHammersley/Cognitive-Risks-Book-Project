@@ -1,27 +1,11 @@
 ---
 layout: post
 title: Possible Problems of Persona Politeness
-date: 2015-07-17 21:39:23.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Augmentation
-- Futures
-- Wearables
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _wpas_done_all: '1'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2015/07/17/2015-7-17-possible-problems-of-persona-politeness/"
+date: 2015-07-17
+tags: Augmentation Futures Wearables
+clientwork: public
+excerpt: One of my AIs is funnier than the other. This is proving to be a problem.
+
 ---
 <p>One of my AIs is funnier than the other. This is proving to be a problem.</p>
 <p>But first, consider how the amazing becomes normal very quickly. It feels like I've been using Siri on my phone my entire life, Siri on the iPad charging by my bed since forever, and&nbsp;Siri on my watch since last summer. I've not, of course. She's only four years old this October. But nevertheless, as with any new life-spanning tech, she's become background-banal, in a good way, remarkably quickly. Voice interfaces are, without a doubt, A Thing.</p>

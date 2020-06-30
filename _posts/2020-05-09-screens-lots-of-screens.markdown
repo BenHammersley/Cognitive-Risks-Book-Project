@@ -1,38 +1,10 @@
 ---
 layout: post
 title: Screens. Lots of screens.
-date: 2020-05-09 18:32:34.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Augmentation
-- Futures
-- Wearables
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _abt_state: '{"references":[],"style":{"kind":"predefined","value":"apa-old-doi-prefix","label":"American
-    Psychological Association 6th edition (\"doi:\" DOI prefix)","shortTitle":"APA"}}'
-  _oembed_d985eafa511b0c4beac8fbe234d74de8: <iframe title="immersed-quest-20200509-180409-mp4"
-    width='580' height='580' src='https://videopress.com/embed/NyyemXi6?preloadContent=metadata&amp;hd=0'
-    frameborder='0' allowfullscreen></iframe><script src='https://v0.wordpress.com/js/next/videopress-iframe.js?m=1435166243'></script>
-  _oembed_time_d985eafa511b0c4beac8fbe234d74de8: '1589062825'
-  _edit_last: '1'
-  _b2s_post_meta: a:6:{s:10:"card_title";s:25:"Screens. Lots of screens.";s:9:"card_desc";s:155:"I've
-    wanted to be able to do this for a long time, and now we can. Here's a video of
-    my screen a minute or so ago​*​.https://videopress.com/v/NyyemXi6?";s:10:"card_image";s:120:"https://i1.wp.com/benhammersley.com/wp-content/uploads/2020/05/Immersed.quest-20200509-182151.jpg?fit=580,580&#038;ssl=1";s:8:"og_title";s:25:"Screens.
-    Lots of screens.";s:7:"og_desc";s:155:"I've wanted to be able to do this for a
-    long time, and now we can. Here's a video of my screen a minute or so ago​*​.https://videopress.com/v/NyyemXi6?";s:8:"og_image";s:122:"https://i1.wp.com/benhammersley.com/wp-content/uploads/2020/05/Immersed.quest-20200509-182151.jpg?fit=580%2C580&#038;ssl=1";}
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2020/05/09/screens-lots-of-screens/"
+date: 2020-05-09
+tags: Augmentation Futures Wearables FutureofWork
+clientwork: public
+excerpt: Using VR for a wildly better workspace
 ---
 <p><!-- wp:paragraph --></p>
 <p>I've wanted to be able to do this for a long time, and now we can. Here's a video of my screen a minute or so ago<span id="eb20d77b-e858-49ce-8190-688d9c0bd679" data-note="Extra points to the people/cult members who spot the other thing hanging out in this video, and know of its brilliance. Because *damn* it's good." contenteditable="false" class="abt-footnote"><sup>​*​</sup></span>.</p>

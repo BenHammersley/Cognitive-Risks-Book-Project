@@ -1,25 +1,9 @@
 ---
-layout: post
 title: Competence Porn
-date: 2019-10-22 16:32:14.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Writing
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _wpas_done_all: '1'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2019/10/22/2019-10-22-competence-porn/"
+date: 2019-10-22
+tags: writing competence
+clientwork: public
+excerpt: The very best sort of video
 ---
 <p class="" style="white-space:pre-wrap;"><em>Originally Published in British Airways Business Life magazine in September 2019</em></p>
 <p class="" style="white-space:pre-wrap;">I’m moving house right now, and so my thoughts have turned to porn. Now, now. Wait a second. Not the regular kind, or even the location-location-location sort that comes with getting onto the mailing lists of real estate agents in the new city a few thousand miles away from the old. Instead, it’s Competence Porn. Because while I type this, all of our worldly possessions are being wrapped and packed by three very nice Angelenos who are good, but not nearly as good as the Japanese moving company employees I am watching on YouTube to keep myself from interfering with their work.</p>
@@ -33,8 +17,3 @@ permalink: "/2019/10/22/2019-10-22-competence-porn/"
 <p class="" style="white-space:pre-wrap;">But it is the former issue that is perhaps the more serious. Ira Glass, the American radio producer and presenter whose style has influenced a whole generation of broadcasters and, especially, podcasters, calls it the Taste Gap. “All of us who do creative work, we get into it because we have good taste. But there is this gap.” He has said, “For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit.”</p>
 <p class="" style="white-space:pre-wrap;"></p>
 <p class="" style="white-space:pre-wrap;">We are left with a real choice here. On the one hand, we can see profound mastery as an unobtainable state. One to be admired, or one to dash our hopes against, but either way a thing that is not for us. Or we can better see it as rather just the current situation of someone who is simply further along on the same journey as we are. Today’s generation of innovation experts and personal efficacy coaches have a name for this: the Growth Mindset. This is the way of thinking that says that with the correct application of proper effort, you can absolutely become the person as skilled as want to be, and that your current slightly-rubbish state is a necessary part of that path. Personal growth, and innovation at every level from the private to the corporate to the national depends on this mindset, and for the sake of the rest of the century, we should practice it. As I am, right now, getting to the good bit: the special box for televisions. It’s like a dream.</p>
-<p class="" style="white-space:pre-wrap;"></p>
-<p class="" style="white-space:pre-wrap;"></p>
-<p class="" style="white-space:pre-wrap;"></p>
-<p class="" style="white-space:pre-wrap;"></p>
-<p class="" style="white-space:pre-wrap;"></p>

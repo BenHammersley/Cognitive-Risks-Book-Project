@@ -1,33 +1,8 @@
 ---
-layout: post
 title: Liked Links - May 18
 date: 2020-05-18 23:42:46.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Links
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _abt_state: '{"references":[],"style":{"kind":"predefined","value":"apa-old-doi-prefix","label":"American
-    Psychological Association 6th edition (\"doi:\" DOI prefix)","shortTitle":"APA"}}'
-  _edit_last: '1'
-  _b2s_post_meta: 'a:6:{s:8:"og_title";s:20:"Liked Links - May 18";s:7:"og_desc";s:160:"Map
-    of Bay Area Memespace: The Bay Area is unusually dense with idea-driven subcultures
-    that mix and cross-pollinate in fascinating ways, many of which are alre";s:8:"og_image";s:0:"";s:10:"card_title";s:20:"Liked
-    Links - May 18";s:9:"card_desc";s:160:"Map of Bay Area Memespace: The Bay Area
-    is unusually dense with idea-driven subcultures that mix and cross-pollinate in
-    fascinating ways, many of which are alre";s:10:"card_image";s:0:"";}'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2020/05/18/liked-links-may-18/"
+tags: links
+clientwork: public
 ---
 <p><strong>Map of Bay Area Memespace</strong>: The Bay Area is unusually dense with idea-driven subcultures that mix and cross-pollinate in fascinating ways, many of which are already enriching rationalist culture. This map is my attempt at illustrating that landscape of subcultures, and at situating the rationalist community within it. - by Julia Galef - <a href="https://juliagalef.com/2017/02/20/map-of-bay-area-memespace/" target="_blank" rel="noopener noreferrer">https://juliagalef.com/2017/02/20/map-of-bay-area-memespace/</a></p>
 <p><strong>Agathonic things</strong>: Though mediocrity is ubiquitous, among all the dross there are objects which improve with use—so-called agathonic things. Michael Helms and Larry Leifer proposed the idea of agathonic design in 2009. - <a href="https://vaughntan.org/agathonic-things" target="_blank" rel="noopener noreferrer">https://vaughntan.org/agathonic-things</a></p>

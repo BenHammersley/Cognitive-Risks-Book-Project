@@ -1,26 +1,11 @@
 ---
-layout: post
 title: Microgestures
-date: 2019-09-22 16:31:00.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Writing
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _wpas_done_all: '1'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2019/09/22/2019-10-22-microgestures/"
+date: 2019-09-22 
+clientwork: public
+excerpt: One of my AIs is funnier than the other. This is proving to be a problem.
+
 ---
+
 <p class="" style="white-space:pre-wrap;"><em>Originally Published in British Airways Business Life magazine in September 2019 </em></p>
 <p class="" style="white-space:pre-wrap;">The tiniest movements make all the difference. At least that was what I heard when my wife threatened to burn my glasses if I wore them near her again. These aren’t ordinary glasses, of course. They’re the new Focals by North, which with a combination of a special material embedded inside the lens, a very finely tuned laser projector in the frame, and some delicate fitting, look just like regular glasses but give me a heads-up display of pertinent information. I press the little switch on a ring on my right pointer finger, and a display hovers in the middle of my field of view. The time, or the weather forecast, or how close the Uber I just called is, or the walking directions to my next meeting. They are, in private, on my own, really cool. But if I wear them in the house it all goes downhill very quickly. Because although the display only pops up a few words at a time, and right in the middle of my field of view, my eyes subtly shift. It’s only a matter of a millimeter for a few milliseconds, if that, but it’s enough for someone to notice.&nbsp;</p>
 <p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;">

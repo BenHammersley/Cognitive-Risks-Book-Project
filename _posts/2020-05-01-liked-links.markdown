@@ -1,34 +1,8 @@
 ---
-layout: post
 title: Liked Links - May 1
 date: 2020-05-01 18:27:21.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Links
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _abt_state: '{"references":[],"style":{"kind":"predefined","value":"apa-old-doi-prefix","label":"American
-    Psychological Association 6th edition (\"doi:\" DOI prefix)","shortTitle":"APA"}}'
-  _edit_last: '1'
-  _b2s_post_meta: 'a:6:{s:8:"og_title";s:19:"Liked Links - May 1";s:7:"og_desc";s:160:"Process
-    Philosophy: Process philosophy is based on the premise that being is dynamic and
-    that the dynamic nature of being should be the primary focus of any com";s:8:"og_image";s:0:"";s:10:"card_title";s:19:"Liked
-    Links - May 1";s:9:"card_desc";s:160:"Process Philosophy: Process philosophy is
-    based on the premise that being is dynamic and that the dynamic nature of being
-    should be the primary focus of any com";s:10:"card_image";s:0:"";}'
-  _wpas_done_all: '1'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2020/05/01/liked-links/"
+clientwork: public
+excerpt: Links I liked this week
 ---
 <p><strong>Process Philosophy</strong>: Process philosophy is based on the premise that being is dynamic and that the dynamic nature of being should be the primary focus of any comprehensive philosophical account of reality and our place within it. - by permeating - <a href="https://plato.stanford.edu/entries/process-philosophy/" target="_blank" rel="noopener noreferrer">https://plato.stanford.edu/entries/process-philosophy/</a></p>
 <p><strong>Seattle’s Leaders Let Scientists Take the Lead. New York’s Did Not</strong>: The first diagnosis of the coronavirus in the United States occurred in mid-January, in a Seattle suburb not far from the hospital where Dr. Francis Riedo, an infectious-disease specialist, works. - by Charles Duhigg - <a href="https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not" target="_blank" rel="noopener noreferrer">https://www.newyorker.com/magazine/2020/05/04/seattles-leaders-let-scientists-take-the-lead-new-yorks-did-not</a></p>

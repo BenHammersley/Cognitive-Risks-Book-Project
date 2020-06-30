@@ -1,26 +1,12 @@
 ---
-layout: post
 title: The French Onion Soup Test for Futurism.
-date: 2018-05-15 22:34:53.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Futures
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _wpas_done_all: '1'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2018/05/15/2018-5-15-the-french-onion-soup-test/"
+date: 2018-05-15 
+tags:
+clientwork: public
+excerpt: The best test for a new technology
+ 
 ---
+
 <p class="" style="white-space:pre-wrap;"><em>I appear to have started blogging again. This is for my own self, really, and so I cannot claim it will make sense to anyone else. Still: onwards.&nbsp;</em></p>
 <p class="" style="white-space:pre-wrap;">Like a tribe lost to civilization, I've worked for myself for so long I've developed my own language, and it's mostly gibberish to everyone else. Then I lose track of which vocab is which, and end up confusing everyone.&nbsp;For all the poor souls who have heard me talk about The French Onion Soup Test recently, I apologize. Turns out that's only a thing in my head.</p>
 <p class="" style="white-space:pre-wrap;">But it might be useful for you, so here we are. The French Onion Soup Test started as a test for cookbooks. Should you find yourself leafing through a cookbook, thinking of buying it, turn to the recipe for French Onion Soup, and see how long it quotes for the caramelizing of the onions. As <a href="http://www.slate.com/articles/life/scocca/2012/05/how_to_cook_onions_why_recipe_writers_lie_and_lie_about_how_long_they_take_to_caramelize_.html">Tom Scocca wrote in Slate back in 2012, seeding this in my mind,&nbsp;</a>&nbsp;most cookbooks are total bullshitters when it comes to this. They'll quote ten minutes, when it's actually more than an hour.&nbsp;</p>

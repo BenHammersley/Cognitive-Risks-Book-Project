@@ -1,35 +1,9 @@
 ---
 layout: post
 title: Liked Links - April 30
-date: 2020-04-30 22:27:00.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Links
-tags: []
-meta:
-  medium_post: O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}
-  _abt_state: '{"references":[],"style":{"kind":"predefined","value":"apa-old-doi-prefix","label":"American
-    Psychological Association 6th edition (\"doi:\" DOI prefix)","shortTitle":"APA"}}'
-  _wpas_done_all: '1'
-  _edit_last: '1'
-  _b2s_post_meta: 'a:6:{s:8:"og_title";s:22:"Liked Links - April 30";s:7:"og_desc";s:160:"The
-    Signal Code: A Rights Based Approach to Information During Crisis: 1. The Right
-    to Information 2. The Right to Protection from Harm 3. The Right to Data Sec";s:8:"og_image";s:0:"";s:10:"card_title";s:22:"Liked
-    Links - April 30";s:9:"card_desc";s:160:"The Signal Code: A Rights Based Approach
-    to Information During Crisis: 1. The Right to Information 2. The Right to Protection
-    from Harm 3. The Right to Data Sec";s:10:"card_image";s:0:"";}'
-  _wp_old_date: '2020-05-01'
-author:
-  login: dangerousprecedent
-  email: ben@benhammersley.com
-  display_name: Ben Hammersley
-  first_name: Ben
-  last_name: Hammersley
-permalink: "/2020/04/30/liked-links-april-30/"
+date: 2020-04-30 
+tags: links
+
 ---
 <p><strong>The Signal Code: A Rights Based Approach to Information During Crisis</strong>: 1. The Right to Information 2. The Right to Protection from Harm 3. The Right to Data Security and Privacy 4. The Right to Data Agency 5. The Right to Redress and Rectification - by Authors - <a href="https://signalcode.org/" target="_blank" rel="noopener noreferrer">https://signalcode.org/</a></p>
 <p><strong>Don’t just talk - show your work!</strong>: To take one specific example - coding - Github-type tools are uber-collaborative, but the typical user is perhaps wearing headphones and very much in a do-not-disturb work mode. - <a href="https://postshift.activehosted.com/social/01161aaa0b6d1345dd8fe4e481144d84.231" target="_blank" rel="noopener noreferrer">https://postshift.activehosted.com/social/01161aaa0b6d1345dd8fe4e481144d84.231</a></p>
