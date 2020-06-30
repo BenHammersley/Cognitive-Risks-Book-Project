@@ -9,11 +9,9 @@ excerpt: Uses of AR in the coming future
 
 If you grew up in the UK in the 1980s, you'll know this image. It's from a TV advert for a breakfast cereal called Ready Brek. It's porridge, but much more finely milled, so it's ready to eat as soon as you add the milk. It is unredeemingly grim, as are their adverts. I mean, I'm not saying that this part of my childhood is why I've spent most of my adulthood in Mediterranean climates, but watch this:
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=WzBxYi7IKzc
-</div>
-</figure>
+
+{% youtube "https://www.youtube.com/watch?v=WzBxYi7IKzc" %}
+
 
 If this makes you nostaligic, you're insane.
 
