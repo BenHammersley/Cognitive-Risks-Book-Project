@@ -8,14 +8,7 @@ excerpt: Using VR for a wildly better workspace
 
 ---
 
-I've wanted to be able to do this for a long time, and now we can. Here's a video of my screen a minute or so ago [[Extra points to the people/cult members who spot the other thing hanging out in this video, and know of its brilliance. Because *damn* it's good.::rsn]]
-
-<!-- /wp:paragraph -->
-<!-- wp:video {"guid":"NyyemXi6","id":302,"src":"https://benhammersley.com/immersed-quest-20200509-180409-mp4/"} -->
-
-
-
-If you have an [[Oculus Quest::https://www.oculus.com/quest]], and install the [[Immersed app::https://immersedvr.com]] you can put your mac's displays into a VR world, and _then add more virtual monitors,_ and place them in space around you. This is slight bonkers. But not as bonkers as the fact that you can still use Zoom.
+I've wanted to be able to do this for a long time, and now we can. If you have an [[Oculus Quest::https://www.oculus.com/quest]], and install the [[Immersed app::https://immersedvr.com]] you can put your mac's displays into a VR world, and _then add more virtual monitors,_ and place them in space around you. This is slight bonkers. But not as bonkers as the fact that you can still use Zoom.
 
 ![You got your Zoom inside your VR](/assets/Immersed.quest-20200509-182151.jpg)
 
