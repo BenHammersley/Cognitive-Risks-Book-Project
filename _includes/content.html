@@ -69,19 +69,19 @@ journal:
 <p class="notes-metadata">
 	
 {%- if page.notetype == "Academic Paper" -%}
-An Academic Paper, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a DOI of <a href="{{page.doi}}">{{page.doi}}</a>
+This page is about an academic Paper, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a DOI of <a href="{{page.doi}}">{{page.doi}}</a>
 {%- endif -%}
 
 {%- if page.notetype == "Concept" -%}
-A concept, written by {{page.authors}}, in {{page.year}}.</a>
+This page is about a concept. It was written by {{page.authors}} in {{page.year}}.</a>
 {%- endif -%}
 
 {%- if page.notetype == "Person" -%}
-A person born in {{page.born}}. A biography can be found <a href="{{page.bio}}"> at {{page.bio}}</a></a>
+This page is about a person born in {{page.born}}. A biography can be found <a href="{{page.bio}}"> at {{page.bio}}</a></a>
 {%- endif -%}
 
 {%- if page.notetype == "Media Article" -%}
-A media article, written by {{page.authors}}, in {{page.year}}. It was published in the {{page.journal}} with a permalink of <a href="{{page.link}}">{{page.link}}</a>
+This page is about an article, written by {{page.authors}}, in {{page.year}}. It was published in {{page.journal}} with a permalink of <a href="{{page.link}}">{{page.link}}</a>
 {%- endif -%}
 
 </p>

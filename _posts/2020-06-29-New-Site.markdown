@@ -8,3 +8,11 @@ excerpt: We've been building new infrastructure...
 ---
 
 It's been quite the few months, huh? 
+
+Inspired by [[Patrick Tanguay]]'s great post [[Work and Learn Out Loud]]...
+
+Actually, I'll leave it there - it's late and now this is live and serving pages, I'm going to go to bed. 
+
+More in the morning...
+
+--BH
