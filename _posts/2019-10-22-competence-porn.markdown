@@ -2,7 +2,7 @@
 title: Competence Porn
 date: 2019-10-22
 tags: writing competence
-clientwork: public
+
 excerpt: The very best sort of video
 ---
 

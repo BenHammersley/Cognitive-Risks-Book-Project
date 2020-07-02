@@ -4,6 +4,7 @@ date: 2020-05-06
 tags: Augmentation Futures Wearables Writing
 clientwork: public
 excerpt: Uses of AR in the coming future
+
 ---
 
 

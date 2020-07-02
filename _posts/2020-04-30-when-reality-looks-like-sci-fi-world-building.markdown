@@ -2,7 +2,7 @@
 title: When reality looks like sci-fi world building
 date: 2020-04-30
 tags: images
-clientwork: public
+
 excerpt: Future images from the present day
 ---
 

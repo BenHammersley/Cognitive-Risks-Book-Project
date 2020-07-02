@@ -3,7 +3,7 @@ layout: post
 title: Possible Problems of Persona Politeness
 date: 2015-07-17
 tags: Augmentation Futures Wearables
-clientwork: public
+
 excerpt: One of my AIs is funnier than the other. This is proving to be a problem.
 
 ---

@@ -2,8 +2,9 @@
 title: Liked Links - May 18
 date: 2020-05-18 23:42:46.000000000 -04:00
 tags: links
-clientwork: public
+
 ---
+
 <p><strong>Map of Bay Area Memespace</strong>: The Bay Area is unusually dense with idea-driven subcultures that mix and cross-pollinate in fascinating ways, many of which are already enriching rationalist culture. This map is my attempt at illustrating that landscape of subcultures, and at situating the rationalist community within it. - by Julia Galef - <a href="https://juliagalef.com/2017/02/20/map-of-bay-area-memespace/" target="_blank" rel="noopener noreferrer">https://juliagalef.com/2017/02/20/map-of-bay-area-memespace/</a></p>
 
 <p><strong>Agathonic things</strong>: Though mediocrity is ubiquitous, among all the dross there are objects which improve with use—so-called agathonic things. Michael Helms and Larry Leifer proposed the idea of agathonic design in 2009. - <a href="https://vaughntan.org/agathonic-things" target="_blank" rel="noopener noreferrer">https://vaughntan.org/agathonic-things</a></p>

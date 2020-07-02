@@ -1,6 +1,5 @@
 ---
 date: 2020-06-29
-clientwork: public
 title: The New Site for a New Normal
 tags: HammersleyFutures Infrastructure FutureofWork IntertwingledData 
 excerpt: We've been building new infrastructure...

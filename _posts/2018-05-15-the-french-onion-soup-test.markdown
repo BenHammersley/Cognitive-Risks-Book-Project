@@ -2,7 +2,7 @@
 title: The French Onion Soup Test for Futurism.
 date: 2018-05-15 
 tags: Futurism Practice
-clientwork: public
+
 excerpt: The best test for a new technology
  
 ---

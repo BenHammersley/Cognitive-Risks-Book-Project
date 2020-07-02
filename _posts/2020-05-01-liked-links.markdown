@@ -1,7 +1,7 @@
 ---
 title: Liked Links - May 1
 date: 2020-05-01 18:27:21.000000000 -04:00
-clientwork: public
+
 excerpt: Links I liked this week
 ---
 <p><strong>Process Philosophy</strong>: Process philosophy is based on the premise that being is dynamic and that the dynamic nature of being should be the primary focus of any comprehensive philosophical account of reality and our place within it. - by permeating - <a href="https://plato.stanford.edu/entries/process-philosophy/" target="_blank" rel="noopener noreferrer">https://plato.stanford.edu/entries/process-philosophy/</a></p>

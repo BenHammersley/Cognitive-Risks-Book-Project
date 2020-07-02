@@ -1,7 +1,7 @@
 ---
 title: Microgestures
 date: 2019-09-22 
-clientwork: public
+
 excerpt: One of my AIs is funnier than the other. This is proving to be a problem.
 
 ---
