@@ -2,7 +2,6 @@
 title: Cognitive Risks and Adaptive Futurism
 date: 2020-06-29
 tags: CognitiveRisk Future Futurism 
-clientwork: public
 excerpt: In which we lay out our stall
 
 ---
