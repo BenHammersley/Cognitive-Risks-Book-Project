@@ -3,7 +3,6 @@ layout: post
 title: Screens. Lots of screens.
 date: 2020-05-09
 tags: Augmentation Futures Wearables FutureofWork
-clientwork: public
 excerpt: Using VR for a wildly better workspace
 
 ---

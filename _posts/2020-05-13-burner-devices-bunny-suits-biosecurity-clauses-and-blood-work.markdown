@@ -3,7 +3,6 @@ layout: post
 title: Burner Devices, Bunny Suits, Biosecurity Clauses, and Blood Work
 date: 2020-05-13
 tags: Futures
-clientwork: public
 excerpt: What do business meetings look like in a world that has experienced a pandemic?
 ---
 Up until February, I averaged 30 countries a year [[All trips aggressively carbon-offset I assure you.::lsn]] Some for 24 hours, some for a week, but either way, my work ordinarily takes me all over the world. With the lockdown, of course, all of that has been put on pause, and like most other people who work with ideas for a living, I'm typing and Zooming and pivoting my existing work and future contracts into new biosecure shapes. 
