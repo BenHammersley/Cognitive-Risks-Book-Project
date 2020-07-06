@@ -23,5 +23,5 @@ For processing, capturing, and exploring new information, I've found that the [[
 
 But doing this usually requires writing out the [[Metadata]] of an article by hand, which can be tiresome.
 
-To help with that, I built an app [[Zettelify::https://zettelify.benhammersley.com]], that takes a URL and returns all of the metadata it can usefully find. The result right now is a block of text to cut and paste into Roam, in a format that makes sense for it. 
+To help with that, I built an app called [[Zettelify::https://zettelify.benhammersley.com]], that takes a URL and returns all of the metadata it can usefully find. The result right now is a block of text to cut and paste into Roam, in a format that makes sense for it. Try it out, even if you don't use Roam or the Zettelkasten system yet. 
 
