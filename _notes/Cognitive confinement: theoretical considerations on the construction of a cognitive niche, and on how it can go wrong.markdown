@@ -1,7 +1,9 @@
 ---
-title: "Cognitive confinement: theoretical considerations on the construction of a cognitive niche, and on how it can go wrong"
+title: Cognitive confinement&#58; theoretical considerations on the construction of a cognitive niche, and on how it can go wrong
 
-tags: [[Philosophy]] [[General Social Sciences]]
+tag: Philosophy 
+tag: General Social Sciences
+
 ---
 
 # Cognitive confinement: theoretical considerations on the construction of a cognitive niche, and on how it can go wrong

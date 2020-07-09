@@ -1,7 +1,10 @@
 ---
-title: "The good despot: Technology firms’ interventions in the public sphere"
+title: The good despot&#58; Technology firms’ interventions in the public sphere
 
-tags: [[Arts and Humanities (miscellaneous)]] [[Communication]] [[Developmental and Educational Psychology]]
+tag: Arts and Humanities (miscellaneous) 
+tag: Communication 
+tag: Developmental and Educational Psychology
+
 ---
 
 # The good despot: Technology firms’ interventions in the public sphere

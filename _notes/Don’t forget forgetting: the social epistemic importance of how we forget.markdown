@@ -1,7 +1,9 @@
 ---
-title: "Don’t forget forgetting: the social epistemic importance of how we forget"
+title: Don’t forget forgetting&#58; the social epistemic importance of how we forget
 
-tags: [[Philosophy]] [[General Social Sciences]]
+tag: Philosophy 
+tag: General Social Sciences
+
 ---
 
 # Don’t forget forgetting: the social epistemic importance of how we forget

@@ -1,7 +1,9 @@
 ---
-title: "A new institution on the block: On platform urbanism and Airbnb citizenship"
+title: A new institution on the block&#58; On platform urbanism and Airbnb citizenship
 
-tags: [[Sociology and Political Science]] [[Communication]]
+tag: Sociology and Political Science 
+tag: Communication
+
 ---
 
 # A new institution on the block: On platform urbanism and Airbnb citizenship

@@ -1,7 +1,7 @@
 ---
-title: "The End of the Corporation"
+title: The End of the Corporation
 
-tags: 
+
 ---
 
 # The End of the Corporation

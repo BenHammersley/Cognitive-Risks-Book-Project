@@ -1,7 +1,7 @@
 ---
-title: "["Secrecy's subjects: Special operators in the US shadow war"]"
+title: ["Secrecy's subjects&#58; Special operators in the US shadow war"]
 
-tags: 
+
 ---
 
 # ["Secrecy's subjects: Special operators in the US shadow war"]
