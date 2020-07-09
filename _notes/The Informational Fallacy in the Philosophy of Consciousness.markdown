@@ -1,5 +1,5 @@
 ---
-title: The Informational Fallacy in the Philosophy of Consciousness
+title: "The Informational Fallacy in the Philosophy of Consciousness"
 
 tags: [[Philosophy]]
 ---

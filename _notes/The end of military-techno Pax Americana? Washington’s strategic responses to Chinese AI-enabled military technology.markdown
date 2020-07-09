@@ -1,5 +1,5 @@
 ---
-title: The end of military-techno Pax Americana? Washington’s strategic responses to Chinese AI-enabled military technology
+title: "The end of military-techno Pax Americana? Washington’s strategic responses to Chinese AI-enabled military technology"
 
 tags: [[Geography, Planning and Development]] [[Sociology and Political Science]]
 ---

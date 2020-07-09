@@ -1,5 +1,5 @@
 ---
-title: The Third Construct of the Universe&#58; Information
+title: "The Third Construct of the Universe: Information"
 
 tags: [[History and Philosophy of Science]] [[Multidisciplinary]]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Invention and capture&#58; a critique of Simondon
+title: "Invention and capture: a critique of Simondon"
 
 tags: [[Cultural Studies]] [[Sociology and Political Science]]
 ---

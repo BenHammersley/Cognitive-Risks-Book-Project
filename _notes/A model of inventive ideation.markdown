@@ -1,5 +1,5 @@
 ---
-title: A model of inventive ideation
+title: "A model of inventive ideation"
 
 tags: [[Education]]
 ---

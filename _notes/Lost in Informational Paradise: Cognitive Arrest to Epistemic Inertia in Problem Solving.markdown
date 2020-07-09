@@ -1,5 +1,5 @@
 ---
-title: Lost in Informational Paradise&#58; Cognitive Arrest to Epistemic Inertia in Problem Solving
+title: "Lost in Informational Paradise: Cognitive Arrest to Epistemic Inertia in Problem Solving"
 
 tags: [[Cultural Studies]] [[Sociology and Political Science]] [[General Social Sciences]] [[Education]] [[Social Psychology]]
 ---
